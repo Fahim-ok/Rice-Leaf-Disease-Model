@@ -14,6 +14,7 @@ This repository contains a comprehensive framework for processing image datasets
     - EfficientNet
     - DenseNet121
     - VGG19
+    - lightweight Beit model
   - Customizable architectures for classification and explainability.
 
 - **Image Segmentation**
