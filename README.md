@@ -105,16 +105,7 @@ get_segmentation(image_names=["image_name"], segmentation_fn="SLIC")
 - **Grad-CAM Heatmaps**:
   Heatmaps to visualize the model's decision-making process.
 
-## Example Outputs
 
-### Mean Class Images
-![Mean Class Image](examples/mean_class_image.png)
-
-### LIME Visualizations
-![LIME Visualization](examples/lime_visualization.png)
-
-### Grad-CAM Heatmaps
-![Grad-CAM Heatmap](examples/grad_cam_heatmap.png)
 
 ## Contributions
 
